@@ -39,22 +39,7 @@ Detected stack: docs-only
 
 ## Evidence and measured results
 
-| Framework | Metric | Value | Provenance | Source |
-|---|---|---|---|---|
-| 01 Fedramp | result | 2014 | commit c6f9efdf84e7021d | `OFFICIAL_BENCHMARKS/01_FedRAMP/01_FedRAMP.json` |
-| 01 Fedramp | pass | 6 | dated 2026-10-02 | `OFFICIAL_BENCHMARKS/01_FedRAMP/01_FedRAMP.md` |
-| 02 Soc2 Typeii | result | 2014 | commit c6f9efdf84e7021d | `OFFICIAL_BENCHMARKS/02_SOC2_TypeII/02_SOC2_TypeII.json` |
-| 02 Soc2 Typeii | score | 93% | commit c6f9efdf84e7021d | `OFFICIAL_BENCHMARKS/02_SOC2_TypeII/02_SOC2_TypeII.json` |
-| 02 Soc2 Typeii | pass | 6 | dated 2026-10-02 | `OFFICIAL_BENCHMARKS/02_SOC2_TypeII/02_SOC2_TypeII.md` |
-| 03 Soc1 Typeii | result | 2014 | commit c6f9efdf84e7021d | `OFFICIAL_BENCHMARKS/03_SOC1_TypeII/03_SOC1_TypeII.json` |
-| 04 Nist Ai Rmf | result | 2014 | commit c6f9efdf84e7021d | `OFFICIAL_BENCHMARKS/04_NIST_AI_RMF/04_NIST_AI_RMF.json` |
-| 04 Nist Ai Rmf | score | 97.5% | commit c6f9efdf84e7021d | `OFFICIAL_BENCHMARKS/04_NIST_AI_RMF/04_NIST_AI_RMF.json` |
-| 04 Nist Ai Rmf | pass | 98% | dated 2026-10-02 | `OFFICIAL_BENCHMARKS/04_NIST_AI_RMF/04_NIST_AI_RMF.md` |
-| 05 Nist Sp800 53 | result | 2014 | commit c6f9efdf84e7021d | `OFFICIAL_BENCHMARKS/05_NIST_SP800_53/05_NIST_SP800_53.json` |
-| 05 Nist Sp800 53 | score | 421 | commit c6f9efdf84e7021d | `OFFICIAL_BENCHMARKS/05_NIST_SP800_53/05_NIST_SP800_53.json` |
-| 05 Nist Sp800 53 | pass | 18 | dated 2026-10-02 | `OFFICIAL_BENCHMARKS/05_NIST_SP800_53/05_NIST_SP800_53.md` |
-
-Every row above is quoted from a results file in this project that carries its own run provenance. Values without provenance are not published.
+**NOT MEASURED.** No results file in this project carries both a value and run provenance (commit or date), so no benchmark number is claimed here. This is deliberate: Anticloud FZ LLE does not publish unmeasured scores.
 
 ### Metric ledger status
 
