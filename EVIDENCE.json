@@ -8,10 +8,93 @@
   "docs-only"
  ],
  "pax_inference_artifact": false,
- "measured_results": [],
- "not_measured": [
-  "no results file carried value + provenance"
+ "measured_results": [
+  {
+   "framework": "01 Fedramp",
+   "metric": "result",
+   "value": "2014",
+   "provenance": "commit c6f9efdf84e7021d",
+   "source": "OFFICIAL_BENCHMARKS/01_FedRAMP/01_FedRAMP.json"
+  },
+  {
+   "framework": "01 Fedramp",
+   "metric": "pass",
+   "value": "6",
+   "provenance": "dated 2026-10-02",
+   "source": "OFFICIAL_BENCHMARKS/01_FedRAMP/01_FedRAMP.md"
+  },
+  {
+   "framework": "02 Soc2 Typeii",
+   "metric": "result",
+   "value": "2014",
+   "provenance": "commit c6f9efdf84e7021d",
+   "source": "OFFICIAL_BENCHMARKS/02_SOC2_TypeII/02_SOC2_TypeII.json"
+  },
+  {
+   "framework": "02 Soc2 Typeii",
+   "metric": "score",
+   "value": "93%",
+   "provenance": "commit c6f9efdf84e7021d",
+   "source": "OFFICIAL_BENCHMARKS/02_SOC2_TypeII/02_SOC2_TypeII.json"
+  },
+  {
+   "framework": "02 Soc2 Typeii",
+   "metric": "pass",
+   "value": "6",
+   "provenance": "dated 2026-10-02",
+   "source": "OFFICIAL_BENCHMARKS/02_SOC2_TypeII/02_SOC2_TypeII.md"
+  },
+  {
+   "framework": "03 Soc1 Typeii",
+   "metric": "result",
+   "value": "2014",
+   "provenance": "commit c6f9efdf84e7021d",
+   "source": "OFFICIAL_BENCHMARKS/03_SOC1_TypeII/03_SOC1_TypeII.json"
+  },
+  {
+   "framework": "04 Nist Ai Rmf",
+   "metric": "result",
+   "value": "2014",
+   "provenance": "commit c6f9efdf84e7021d",
+   "source": "OFFICIAL_BENCHMARKS/04_NIST_AI_RMF/04_NIST_AI_RMF.json"
+  },
+  {
+   "framework": "04 Nist Ai Rmf",
+   "metric": "score",
+   "value": "97.5%",
+   "provenance": "commit c6f9efdf84e7021d",
+   "source": "OFFICIAL_BENCHMARKS/04_NIST_AI_RMF/04_NIST_AI_RMF.json"
+  },
+  {
+   "framework": "04 Nist Ai Rmf",
+   "metric": "pass",
+   "value": "98%",
+   "provenance": "dated 2026-10-02",
+   "source": "OFFICIAL_BENCHMARKS/04_NIST_AI_RMF/04_NIST_AI_RMF.md"
+  },
+  {
+   "framework": "05 Nist Sp800 53",
+   "metric": "result",
+   "value": "2014",
+   "provenance": "commit c6f9efdf84e7021d",
+   "source": "OFFICIAL_BENCHMARKS/05_NIST_SP800_53/05_NIST_SP800_53.json"
+  },
+  {
+   "framework": "05 Nist Sp800 53",
+   "metric": "score",
+   "value": "421",
+   "provenance": "commit c6f9efdf84e7021d",
+   "source": "OFFICIAL_BENCHMARKS/05_NIST_SP800_53/05_NIST_SP800_53.json"
+  },
+  {
+   "framework": "05 Nist Sp800 53",
+   "metric": "pass",
+   "value": "18",
+   "provenance": "dated 2026-10-02",
+   "source": "OFFICIAL_BENCHMARKS/05_NIST_SP800_53/05_NIST_SP800_53.md"
+  }
  ],
+ "not_measured": [],
  "millennium_proposals": [
   "P01",
   "P02",
